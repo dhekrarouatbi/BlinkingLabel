@@ -1,18 +1,18 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
+  "summary": "A subclass on UILabel that provides a blink",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Dhekra Rouatbi/BlinkingLabel",
+  "homepage": "https://github.com/dhekrarouatbi/BlinkingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Dhekra Rouatbi": "dhekra.rouatbi@proxym-it.com"
+    "Dhekra Rouatbi": "dhekra.rouatbi@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Dhekra Rouatbi/BlinkingLabel.git",
+    "git": "https://github.com/dhekrarouatbi/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {

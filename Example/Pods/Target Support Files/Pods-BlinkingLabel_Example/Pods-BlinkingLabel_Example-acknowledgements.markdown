@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## BlinkingLabel
 
-Copyright (c) 2017 Dhekra Rouatbi <dhekra.rouatbi@proxym-it.com>
+Copyright (c) 2017 Dhekra Rouatbi <dhekra.rouatbi@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
