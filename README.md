@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Dhekra Rouatbi, dhekra.rouatbi@proxym-it.com
+Dhekra Rouatbi, dhekra.rouatbi@gmail.com
 
 ## License
 
