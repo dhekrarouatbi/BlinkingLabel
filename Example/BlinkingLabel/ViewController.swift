@@ -11,15 +11,15 @@ import BlinkingLabel
 
 class ViewController: UIViewController {
 
-    var isBlinking = false
-    let blinkingLabel : BlinkingLabel  //= BlinkingLabel(frame: CGRect(x: 10, y: 20, width: 200, height: 30))
+   var isBlinking = false
+    let blinkingLabel = BlinkingLabel(frame: CGRect(x: 10, y: 20, width: 200, height: 30))
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // Setup the BlinkingLabel
         blinkingLabel.text = "I blink!"
-        blinkingLabel.font = UIFont.systemFontOfSize(20)
+        blinkingLabel.font = UIFont.systemFont(ofSize: 20)
         view.addSubview(blinkingLabel)
         blinkingLabel.startBlinking()
         isBlinking = true
